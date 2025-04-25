@@ -1,0 +1,10 @@
+# Python virtual environment
+scaleai-env/
+
+# Config file with API key
+config.py
+
+# Python cache files (good to ignore these too)
+__pycache__/
+*.py[cod]
+*$py.class
